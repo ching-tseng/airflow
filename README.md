@@ -1,7 +1,7 @@
 # airflow
 嘗試自己安裝Airflow於Ubuntu 18.04 - Python3.6
 
-##﻿Reference: https://medium.com/@cchangleo/airflow-%E6%96%B0%E6%89%8B%E5%BB%BA%E7%BD%AE%E6%B8%AC%E8%A9%A6-part-1-9e0fe4d12e7a
+##﻿Reference: https://medium.com/@cchangleo/airflow-新手建置測試-part-1-9e0fe4d12e7a
 
 
 ## 安裝Mysql 環境
