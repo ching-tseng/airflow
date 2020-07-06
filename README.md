@@ -65,7 +65,7 @@ sudo pip install ‘apache-airflow[postgres, mysql, slack, rabbitmq, celery, cry
 ~/airflow> sudo vi airflow.cfg
 ```
 
-### 找到sql_alchemy_con後面預設連接資料庫為sqlite3, 更改為Mysql連線API
+### 找到sql_alchemy_conn後面預設連接資料庫為sqlite3, 更改為Mysql連線API
 ```
 sql_alchemy_conn = mysql+mysqldb://airflow:airflow@localhost:3306/airflow
 ```
